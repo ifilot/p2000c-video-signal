@@ -6,7 +6,7 @@ Defaults are tuned for data/SDS00003.bin:
 * CH1: horizontal sync
 * CH2: monochrome video
 * CH3: vertical sync
-* CH4: additional video/brightness-related signal
+* CH4: additional video-level signal, probably at or near VID1
 * 12.288 MHz dot clock, 98 character clocks per scanline
 * 80 x 24 visible text area, 8 x 12 dots per character
 """

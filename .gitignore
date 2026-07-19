@@ -17,6 +17,7 @@ Thumbs.db
 analysis/*
 !analysis/SDS00003_single_frame_centered_threshold_1.00.png
 !analysis/SDS00003_video_timing_synthesis_diagram.png
+!analysis/SDS00003_value_vs_time_overview.png
 
 # Large oscilloscope captures. Keep the known source capture tracked/visible.
 data/*
