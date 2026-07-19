@@ -1,0 +1,23 @@
+# Python caches and local virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated analysis artifacts
+analysis/*
+!analysis/SDS00003_single_frame_centered_threshold_1.00.png
+!analysis/SDS00003_video_timing_synthesis_diagram.png
+
+# Large oscilloscope captures. Keep the known source capture tracked/visible.
+data/*
+!data/SDS00003.bin
